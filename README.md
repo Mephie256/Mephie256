@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mephie256
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...full stack development
-- 💞️ I’m looking to collaborate on ...software enginering
+- 🌱 I’m cool Developer learning every piece of tech
+- 💞️ I’m looking forward to be the best
 - 📫 How to reach me ...reach me on dm8143092@gmail.com
 
 <!---
